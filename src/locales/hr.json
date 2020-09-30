@@ -1,0 +1,99 @@
+{
+  "title":{
+    "home": "Naslovna",
+    "about": "O nama",
+    "machining": "Strojna obrada",
+    "catalog": "Proizvodnja",
+    "contact": "Kontakt"
+  },
+  "footer":{
+    "hq": "Adresa sjedišta",
+    "factory": "Adresa pogona",
+    "mb": "MB",
+    "bank": "Žiro račun",
+    "phone": "Telefon",
+    "mob": "Mobitel",
+    "fax": "Fax",
+    "mail": "E-mail"
+  },
+  "home":{
+    "button":"Saznajte više",
+    "about-text":"Obrt “Europlast” osnovan je 1998. godine , i od tada do 2010. godine uspješno razvija nekoliko različitih proizvodnih programa..",
+    "machining-text":"Početkom 2010. godine, “Europlast” počinje ulagati u sektor strojne obrade, te nastojimo u kontinuitetu ulagati i razvijati se, kako bi bili konkurentniji na tržištu..",
+    "products":"Tvrtka “Europlast” na tržištu se želi isprofilirati kao tvrtka koja tržištu nudi..."
+  },
+  "about":{
+    "company":{
+      "title": "O obrtu",
+      "text": "Obrt “Europlast” osnovan je 1998. godine , i od tada do 2010. godine uspješno razvija nekoliko različitih proizvodnih programa, koji se u osnovi mogu podijeliti u tri pravca, i to:",
+      "list":["proizvodnja različitih proizvoda od armiranog poliestera", "proizvodnja prikolica posebnih namjena", "dorada kamiona za posebne namjene"],
+      "main-text":["Dugogodišnje proizvodno iskustvo, te proizvodnja praktički isključivo za zahtjevno EU – tržište dobra su garancija za kvalitetu  i dobre cijene naših proizvoda. Na početku razvojnog puta počeli smo sa samo 4 djelatnika , proizvodeći isključivo proizvode od armiranog poliestera. Nakon dvije godine , u kojima smo između ostalog proizvodili i plastične dijelove prikolica za prijevoz konja ,  u dogovoru s njemačkim partnerom, tvrkom Steinsberger GmbH, preuzeli smo i sastavljanje i montažu kompletnih prikolica za prijevoz konja. U međuvremenu smo, kontinuirano se razvijajući i povećavajući broj djelatnika ,  razvili 3 vlastita modela prikolica koje se uspješno prodaju na zahtjevnom EU – tržištu. Tvrtka trenutno zapošljava 40 djelatnika, s tim da je već sada jasno da će taj broj u ovoj godini i dalje rasti.", "Krajem 2010. godine “Europlast”, uz prije navedene proizvodne programe, ulazi i u sferu strojne obrade metala, usporedno razvijajući poslovanje u obje branše. Uz konstantno učenje, napredovanje i ulaganje, kako u strojeve, tako i u djelatnike, “Europlast” velikom brzinom napreduje u sektoru strojne obrade, te se 2014. godine potpuno orijentira na to tržište.", "Referentna lista tvrtki koje koriste naše proizvode  ( Harburg Freudenberger, Starco, Altrad Limex, Steinsberger) te zaista veliki interes  postojećih i novih kupaca daje nam pravo na optimizam i nadu za još bolje rezultate u budućnosti."]
+    },
+    "staff":{
+      "title": "Edukacija djelatnika",
+      "text": "Posebnu pažnju posvećujemo stalnoj i kontinuiranoj edukaciji djelatnika . Surađujući već dugi niz godina sa tvrkama poput Zavoda za unapređenje sigurnosti iz Osijeka ili Zagrebinspekt iz Zagreba redovito educiramo radnike , tako da radnici posjeduju Uvjerenje o osposobljenosti za rad na siguran način, zašitu od požara , prve pomoći i td.Ove godine cilj nam je trojicu djelatnika poslati u Slav. Brod na seminar radi atestiranja zavarivača. Osim toga kontinuirano vršimo edukaciju u suradnji sa njemačkim partnerom , bilo kod nas ili prilikom povremenih posjeta pogonima partnera, tvrtke Steinsberger GmbH u Njemačkoj."
+    },
+    "waste":{
+      "title":"Rukovanje otpadom",
+      "text": "Za naš obrt očuvanje okoliša je posebno značajno te stoga  u procesu proizvodnje strogo vodimo računa o njegovu zbrinjavanju. Poslovanje se trudimo organizirati tako da što više smanjimo rizične situacije iz aspekta zaštite okoliša . Metalni otpad i sitni kruti otpad zbrinjavamo u suradnji  s tvrtkom Ciak  d.o.o.  iz Zagreba , a ambalažu opasnog otpada prikupljamo i zbrinjavamo u suradnji s dobavljačima.",
+      "text2": "Svojim poslovnim procesima upravljamo sukladno zakonskim i ostalim zahtjevima na način da što manje štetimo okolišu."
+    },
+    "iso":{
+      "title": "ISO 9001:2000",
+      "bold":"NAŠI CILJEVI SA UVOĐENJEM SUSTAVA UPRAVLJANJA KVALITETOM SUKLADNO ISO 9001:2000",
+      "text":["Vjerujemo kako je obrt Europlast jedna od najkvalitetnijih tvrtki u preradi poliestera, a posebno u proizvodnji prikolica specijalnih namjena .", "Svojim postojanim razvojem i prepoznatljivim stilom rada stvorili smo ime koje predstavlja sigurnost, dobro upravljanje, jedinstven pristup svakom korisniku, jednom rječju – kvalitetu.", "Kako bismo i službeno potvrdili sve gore rečeno, ali i jasno pokazali kako Europlast uvijek teži višem i boljem, ove godine želimo ući u proces uvođenja sustava upravljanja kvalitetom sukladno normi HRN EN ISO 9001:2000.  Započet ćemo pripreme za dobivanje certifikata i samim  time ostvariti određena poboljšanja unutar tvrtke.", "Uvođenjem sustava upravljanja kvalitetom u postojeću organizaciju, cilj nam je podići kvalitetu usluge na još višu razinu, definiranjem točno propisanih pravila poslovanja i organizacije."]
+    }
+  },
+  "machining":{
+    "text": "Početkom 2010. godine, “Europlast” počinje ulagati u sektor strojne obrade, te nastojimo u kontinuitetu ulagati i razvijati se, kako bi bili konkurentniji na tržištu. Tako danas “Europlast” broji preko 40 strojeva, te ponosno ističemo kako svojim klijentima možemo ponuditi zaokruženi poslovni proces. Tako je naš strojni park danas u mogućnosti klijentu ponuditi sve, od samog rezanja, žarenja i kaljenja materijala, do tokarenja, glodanja, bušenja i brušenja, ali i zavarivanja raznih pozicija. Zahvaljujući velikom asortimanu strojeva, od klasičnih do modernih CNC strojeva koji omogućavaju uske tolerancije, u mogućnosti smo u kratkim rokovima kvalitetno izraditi pojedinačne ili veće serije pozicija. Ukoliko imate bilo kakvu potrebu za uslugama strojne obrade, slobodno pošaljite upit na e-mail:",
+    "list-name": "Strojni park:",
+    "list":{
+      "item1":{
+        "name": "Cnc vertikalni obradni centri",
+        "items":["Cincinnati Milacron Arrow 500", "Cincinnati Milacron Arrow 1250", "Spinner VC810"]
+      },
+      "item2":{
+        "name": "CNC horizontalni obradni centri",
+        "items":["Mazak FH480", "Mazak FH680", "DMG DMC 60H", "Mori Seiki SH400"]
+      },
+      "item3":{
+        "name": "CNC tokarilice",
+        "items":["Microcut 76HTL", "Microcut LT65MC", "Gildemeister CTX 600", "Gildemeister CTX 520", "Gildemeister CTX 400E", "Emco Emcoturn 425MC", "Weisser Heilbronn Fanuc", "Wasino LG 83 (linearni)", "Wasino LG 70 (linearni)"]
+      },
+      "item4":{
+        "name": "Manuelni tokarski strojevi",
+        "items":["Potisje PA900", "Potisje PA1000"]
+      },
+      "item5":{
+        "name": "Ostali strojevi",
+        "items":["Peć za žarenje i kaljenje", "MEP automatska tračna pila Ø320", "Prvomajska tračna pila Ø420", "Aparat za Mig Mag zavarivanje – Lorch S3 Pulse XT 320A", "Aparat za Mig Mag zavarivanje Fronius TPS400i Pulse", "Hidraulične škare DURMA ECO-ES 3006", "Hidraulična apkant preša DURMA HAP 3090"]
+      }
+    }
+  },
+  "products":{
+    "title":"Proizvodni program",
+    "list-title1":"Auto prikolice:",
+    "list1":["Za prijevoz konja", "Za prijevoz pasa", "Prodajne ili ugostiteljske prikolice", "Mini hladnjače", "Prikolice za masovne nesreće"],
+    "list-title2":"Kamionske i kombi nadgradnje:",
+    "list2":["Pekarske nadgradnje", "Hladnjače i mini hladnjače", "Nadgradnje za prijevoz konja"],
+    "text":["Krovni spoileri i spavaće kabine", "Tobogani", "Vinogradarske posude i kace za šljive"],
+    "bold":"",
+    "more-text":[]
+  },
+  "contact":{
+    "title":"Kontaktirajte nas",
+    "name":"Ime:",
+    "name_s":"Upišite vaše ime",
+    "email":"E-mail:",
+    "email_s":"Upišite vašu e-mail adresu",
+    "text": "Poruka:",
+    "text_s": "Upišite vašu poruku",
+    "button":"Pošalji"
+  },
+  "errors":{
+    "email":"Polje E-mail je obavezno i mora bit ispravno",
+    "name": "Polje ime je obavezno",
+    "mess": "Polje poruka je obavezno"
+  },
+  "success":"Uspiješno poslano"
+}

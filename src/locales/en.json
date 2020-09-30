@@ -1,0 +1,99 @@
+{
+  "title":{
+    "home": "Home",
+    "about": "About us",
+    "machining": "CNC machining",
+    "catalog": "Manufacturing",
+    "contact": "Contact"
+  },
+  "footer":{
+    "hq": "HQ Address",
+    "factory": "Factory Address",
+    "mb": "MB",
+    "bank": "Bank Account N.",
+    "phone": "Phone",
+    "mob": "Mobile",
+    "fax": "Fax",
+    "mail": "E-mail"
+  },
+  "home":{
+    "button":"Learn more",
+    "about-text":"The company „Europlast“ was founded in 1998, and since then it is successfully developing few..",
+    "machining-text":"At the beginning of 2010, “Europlast” started investing in the CNC machining sector, and we are constantly striving to invest and develop in order to be more competitive on the..",
+    "products":"Europlast company wants to profile itself on the market as a company that offers.."
+  },
+  "about":{
+    "company":{
+      "title": "About the company",
+      "text": "The company „Europlast“ was founded in 1998, and since then it is successfully developing few different production programs which can be divided into four basic production ranges:",
+      "list":["Production of different products from polyester", "Production of specialty trailers", "Expansions of specialty trucks", "Machine processing"],
+      "main-text":["Longtime experience in production and producing practically only for the demanding European market, are a good guarantee for quality and good prices of our products. In the beginning of our business development, we had only four employees and were producing mostly products from armed polyester. After two years, producing plastic parts for horse trailers, we took over the assembling and mounting of complete horse trailers, in agreement with our German partner – company Steinsberger GmbH. In the meantime, continuously developing and employing new workers, we have developed three own trailer models which are good selling on the demanding EU market. Our company is employing 32 employees at the moment, but it is obviously that this number will grow this year. Our intention is, in near future, to increase the horse trailer production significantly, and to take over the extensions production for horse trucks from our German partner. According to this we intend to replace the existing equipment with new one and to buy more additional equipment needed for production of the new trailer type.", "The reference list of companies which are using our products ( Volvo, Neoplan, Liebherr, Steinsberger) and really big interest of existing and potential new customers make us believe and gives us the right to be optimistic and to hope for better results in future."]
+    },
+    "staff":{
+      "title": "Staff training",
+      "text": "The continuing and permanent education and training of our employees is very important to us. We are educating our workers now for years in co work with companies like the Institute for safety improving from Osijek or Zagrebinspekt. Therefore, our workers have certificates for safety working, fire protection, first aid etc. For this year we have in plan to send our three workers to Slavonski Brod, for a seminar to get welders certificate. Beside all of this, we are educating employees in cooperation with our German partner, here in our plant or during occasional visits of production plants of our partner – company Steinsberger GmbH in Germany."
+    },
+    "waste":{
+      "title":"Waste disposal",
+      "text": "Ecology is very important for our company, and therefore we pay attention to the waste disposal during the whole production process. We are trying to organize our business in the way to avoid potential risky situations from the ecology point of view. Metal and fine solid waste we are disposing in cooperation with company Ciak d.o.o. from Zagreb and the packing of hazardous waste we are collecting and disposing together with suppliers.",
+      "text2": "We are managing our business processes according to all law and other regulations in the way not to harm the environment."
+    },
+    "iso":{
+      "title": "ISO 9001:2000",
+      "bold":"We believe that company Europlast is one of the top quality companies in polyester processing, and especially in producing trailers for special purpose.",
+      "text":["With our consistent development and recognized business style we made our name which represents safety, good management, unique approach to every user, or with one word – quality.", "To get the official approval of everything we said above, but also to show clearly that Europlast is always tending to something more and better, we want to start this year with the implementation of the quality management system according to the norm HRN EN ISO 9001:2000. We will start with preparations for getting the certificate and trough this we will make certain improvements inside the company.", "Trough the implementation of the quality management system into the existing organization, our aim is to bring the service on a higher level, defining precisely rules of business and organization"]
+    }
+  },
+  "machining":{
+    "text": "At the beginning of 2010, “Europlast” started investing in the CNC machining sector, and we are constantly striving to invest and develop in order to be more competitive on the market. So, today Europlast is counting more than 40 machines, and we can offer our costumers all the operations in business process – from cutting and heat treatment to turning, milling, drilling, grinding and welding as well. Thanks to the large assortment of machines, from classic to modern CNC machines that allow tight tolerances, we are able to produce individual or larger batch positions in a short time. If you have any need for CNC machining, please feel free to contact us on e-mail: strojna@europlast-croatia.com",
+    "list-name": "Machine park:",
+    "list":{
+      "item1":{
+        "name": "CNC vertical machining center",
+        "items":["Cincinnati Milacron Arrow 500", "Cincinnati Milacron Arrow 1250", "Spinner VC810"]
+      },
+      "item2":{
+        "name": "CNC horizontal machining center",
+        "items":["Mazak FH480", "Mazak FH680", "DMG DMC 60H", "Mori Seiki SH400"]
+      },
+      "item3":{
+        "name": "CNC milling machines",
+        "items":["Microcut 76HTL", "Microcut LT65MC", "Gildemeister CTX 600", "Gildemeister CTX 520", "Gildemeister CTX 400E", "Emco Emcoturn 425MC", "Weisser Heilbronn Fanuc", "Wasino LG 83 (linear)", "Wasino LG 70 (linear)"]
+      },
+      "item4":{
+        "name": "Manual milling machines",
+        "items":["Potisje PA900", "Potisje PA1000"]
+      },
+      "item5":{
+        "name": "Other machines",
+        "items":["Annealing and quenching furnace", "MEP automatick band saw Ø320", "Prvomajska band saw Ø420", "CNC planning grinder", "MIG MAG welding machine – Lorch S3 Pulse XT 320A", "MIG MAG welding machine Fronius TPS400i Pulse", "Hydraulic shears DURMA ECO-ES 3006", "Hydrauloic press DURMA HAP 3090"]
+      }
+    }
+  },
+  "products":{
+    "title":"Products and Services",
+    "list-title1":"Car trailers:",
+    "list1":["For horse transport", "For dog transport", "Mobile shop trailers", "Small cold storages"],
+    "list-title2":"Truck and van racks:",
+    "list2":["Bakery racks", "Portable cold storages and mini cold storages", "Racks for horse transport"],
+    "text":["Roof spoiler and sleeping cabins", "Slides for children", "Vineyard bins and tubs for plums", "Machine processing"],
+    "bold":"MORE ABOUT PRODUCTS",
+    "more-text":["Horse trailers: company Europlast is the only producer of such trailers in Croatia. Our trailers have an attractive design and can be used for transport of two or three horses. Trailers have a weight of 1610 kg, a total length of 6,0m and a total height of 3,20m. Some of the special features of our trailers are also space for the owner with bed, closet and on demand bath, kitchen and other elements.", "Other trailers: company Europlast is also producing other types of trailers. There are our dog trailers, mobile shop trailers – travelling sales stand and also small cold storages for car or van traction."]
+  },
+  "contact":{
+    "title":"CONTACT US",
+    "name":"Name:",
+    "name_s":"Write your name here",
+    "email":"Email:",
+    "email_s":"Let us know how to contact you back",
+    "text": "Message:",
+    "text_s": "What would you like to tell us?",
+    "button":"Send Message"
+  },
+  "errors":{
+    "email":"Email field is required and must be valid",
+    "name": "Name field is required",
+    "mess": "Message field is requied"
+  },
+  "success":"Successfully sent"
+}

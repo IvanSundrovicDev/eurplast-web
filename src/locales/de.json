@@ -1,0 +1,99 @@
+{
+  "title":{
+    "home": "Hauptseite",
+    "about": "Über uns",
+    "machining": "CNC Metalbearbeitung",
+    "catalog": "Herstellung",
+    "contact": "Kontakt"
+  },
+  "footer":{
+    "hq": "Hauptsitz",
+    "factory": "Adresse Standort",
+    "mb": "MB",
+    "bank": "Giro Konto",
+    "phone": "Telefon",
+    "mob": "Handy",
+    "fax": "Fax",
+    "mail": "E-mail"
+  },
+  "home":{
+    "button":"Mehr erfahren",
+    "about-text":"Die Firma „Europlast“ wurde 1998. gegründet und seit dann entwickelt sie erfolgreich..",
+    "machining-text":"Die Firma „Europlast“ wurde 1998 gegründet und entwickelt seitdem nur wenige erfolgreich..",
+    "products":"Firma Europlast ist einziger Hersteller von dies artigen Anhängern in Kroatien. Die Anhänger.."
+  },
+  "about":{
+    "company":{
+      "title": "Über die Firma",
+      "text": "Die Firma „Europlast“ wurde 1998. gegründet und seit dann entwickelt sie erfolgreich verschiedene Produktpaletten welche sich grundsätzlich in vier Bereichen aufteilen können:",
+      "list":["Herstellung verschiedener Artikel aus armierten Polyester", "Herstellung von Anhängern für spezielle Anwendungen", "Nacharbeitung von LKW Fahrzeugen für spezielle Anwendungen", "Maschinenbearbeitung"],
+      "main-text":["Langjährige Produktionserfahrung und Produktion praktisch ausschließlich für den anspruchsvollen EU Markt, sind gute Garantie für die Qualität und gute Preise unserer Produkte. Unseren Entwicklung haben wir nur mit vier Angestellten angefangen und haben ausschließlich Produkte aus armiertem Polyester hergestellt. Nach zwei Jahren, in welchen wir unter anderen auch Kunststoffteile für Pferdeanhänger produziert haben, wurde in Absprache mit dem deutschem Partner, der Firma Steinsberger GmbH, der Zusammenbau und die Montage der kompletten Pferdeanhänger übernommen.  Durch die kontinuierliche Entwicklung und Einstellung von neuen Mitarbeitern, haben wir zwischenzeitlich drei eigene Anhängermodelle, welche sich auf den anspruchsvollen EU Markt sehr gut verkaufen, entwickelt. Die Firma beschäftigt momentan 32 Arbeiter, aber es ist mittlerweile klar das diese Zahl im diesem Jahr weiter steigen wird. Unser Ziel ist es in nächster Zeit die Produktion von Pferdeanhängern bedeutend anzuheben und von deutschem Partner die Nacharbeitung von LKW für Pferdetransport zu übernehmen.  In diesem Zusammenhang wollen wir die vorhandenen Maschinen mit neuen zu ersetzen und dazu noch weitere neue Ausrüstung, für die Produktion von neuen Anhängertyp, zu kaufen.", "Unsere Referenzliste von Firmen welche unsere Produkte benutzen (Volvo, Neoplan, Liebherr, Steinsberger) und sehr großes Interesse bei aktuellen und neuen Kunden, geben uns das Recht optimistisch zu sein und Hoffnung auf noch bessere Resultate in der Zukunft."]
+    },
+    "staff":{
+      "title": "Schulung von Arbeitern",
+      "text": "Wir legen sehr großen Wert auf dauerhafte und kontinuierliche Schulung von Arbeitern. Die Schulung der Arbeiter wird jahrelang regelmäßig von dem Institut für die Förderung der Sicherheit aus Osijek und Zagrebinspekt aus Zagreb durchgeführt. Auf diese Weise besitzen unsere Arbeiter Zeugnisse über Befähigung für sichere Arbeitsweise, Brandschutz, Erste Hilfe usw. Dieses Jahr haben wir uns als Ziel gesetzt, drei von unseren Arbeitern nach Slavonski Brod zum Schweißer Attest zu schicken. Mit unseren deutschen Partner, der Firma Steinsberger GmbH, organisieren wir regelmäßig Schulungen bei uns im Werk oder bei gelegentlichen Besuchen der Werke unseres Partners in Deutschland."
+    },
+    "waste":{
+      "title":"Abfallentsorgung",
+      "text": "Umweltschutz ist für unsere Firma ein sehr wichtiger Punkt. Aus diesem Grund achten wir beim Arbeitsprozess sehr auf die Abfallentsorgung. Die Arbeit versuchen wir so zu organisieren dass die riskanten Situationen aus dem Aspekt des Umweltschutzes so gering wie nur möglich gehalten werden. Die Entsorgung von Abfallmetallen und feinen festem Abfall organisieren wir mit der Firma Ciak d.o.o. aus Zagreb und die Verpackungen des gefährlichen Abfalls, sammeln wir und entsorgen, in der Zusammenarbeit mit unseren Lieferanten.",
+      "text2": "Unsere Arbeitsprozesse verwalten wir gemäß Gesetz- und anderen Vorschriften so das die Umwelt gering wie nur möglich belastet wird."
+    },
+    "iso":{
+      "title": "ISO 9001:2000",
+      "bold":"UNSERE ZIELE MIT DER EINFÜHRUNG DES QUALITÄTSMANAGENTS GEMÄSS ISO 9001:2000 ",
+      "text":["Wir glauben dass die Firma Europlast eine der Qualitätsvollesten Firmen in der Polyesterverarbeitung, und insbesondere in der Produktion von Spezialanhängern, ist.", "Durch persistente Entwicklung und erkennbarem Arbeitsstyl haben wir einen Namen geschaffen welches für Sicherheit, gute Verwaltung und einzigartigen Zugang auf jeden den Kunden, oder einfach mit einem Wort – Qualität.", "Um das obengenannte auch offiziell zu bestätigen aber auch klar zu zeigen das die Firma Europlast immer zu Größerem und Besserem tendiert wollen wir dieses Jahr das Einführen des Qualitätsmanagements nach Norm HRN EN ISO 9001:2000 einleiten. Wir werden mit den Vorbereitungen für die Erlangung des Zertifikats beginnen, uns somit auch bestimmte Verbesserungen in der Firma bekommen.", "Mit der Einführung des Qualitätsmanagements in die vorhandene Organisation, wollen wir die Qualität der Dienstleistungen, durch das definieren der Arbeitsvorschriften und der Organisation, auf ein höheres Niveau anheben."]
+    }
+  },
+  "machining":{
+    "text": "",
+    "list-name": "CNC Maschinenpark:",
+    "list":{
+      "item1":{
+        "name": "CNC Vertikalbearbeitungscenter",
+        "items":["Cincinnati Milacron Arrow 500", "Cincinnati Milacron Arrow 1250", "Spinner VC810"]
+      },
+      "item2":{
+        "name": "CNC Horizontalbearbetiungscenter",
+        "items":["Mazak FH480", "Mazak FH680", "DMG DMC 60H", "Mori Seiki SH400"]
+      },
+      "item3":{
+        "name": "CNC Drehmaschinen",
+        "items":["Microcut 76HTL", "Microcut LT65MC", "Gildemeister CTX 600", "Gildemeister CTX 520", "Gildemeister CTX 400E", "Emco Emcoturn 425MC", "Weisser Heilbronn Fanuc", "Wasino LG 83 (linear)", "Wasino LG 70 (linear)"]
+      },
+      "item4":{
+        "name": "Manuel Drehmaschinen",
+        "items":["Potisje PA900", "Potisje PA1000"]
+      },
+      "item5":{
+        "name": "Andere Maschinen",
+        "items":["Ofen für die thermische Behandlung", "MEP automatische Bandsage Ø320", "Prvomajska Bandsage Ø420", "CNC Plannschleifmaschinen", "MIG MAG Schweissapparat – Lorch S3 Pulse XT 320A", "MIG MAG Schweissapparat  Fronius TPS400i Pulse", "Hydraulische Schere DURMA ECO-ES 3006", "Hydraulische Apkantpresse DURMA HAP 3090"]
+      }
+    }
+  },
+  "products":{
+    "title":"Produkte und Dienstleistungen",
+    "list-title1":"Autoanhänger:",
+    "list1":["Pferdeanhänger", "Für den Transport von Hunden", "Verkaufsanhänger", "Mini Kühlwagen"],
+    "list-title2":"LKW und Kombi Überbauten:",
+    "list2":["Bäckerei Überbauten", "Kühlwagen und Mini Kühlwagen", "Überbauten für Pferdetransporte"],
+    "text":["Dachspoiler und Schlafkabinen", "Rutschen", "Weingarten Behälter und Pflaumenbottiche", "Maschinenbearbeitung"],
+    "bold":"AUSFÜHRLICHERES ÜBER PRODUKTE",
+    "more-text":["Für Pferdetransport: Firma Europlast ist einziger Hersteller von dies artigen Anhängern in Kroatien. Die Anhänger sind attraktiv designiert und können zwei bis drei Pferde transportieren. Der Anhänger hat ein Gesamtgewicht von 1610 kg, eine Gesamtlänge von 6,00 m und eine Höhe von 3,2 m. Im Anhänger ist auch ein Raum für den Besitzer ausgestattet mit Bett, Schrank und nach Anfrage auch mit Bad-, Küchen und anderen Elementen", "Andere Anhänger: Firma Europlast produziert auch andere Anhängertypen – Anhänger für Hundetransport, Verkaufsanhänger welche als mobiles Verkaufsstand dienen und Mini Kühlwagen zum Ziehen mit Auto oder Kombi."]
+  },
+  "contact":{
+    "title":"KONTAKTIERE UNS",
+    "name":"Name:",
+    "name_s":"Schreibe deine Name hier",
+    "email":"E-mail:",
+    "email_s":"Lass uns wissen wie wir dich erreichen können",
+    "text": "Nachricht:",
+    "text_s": "Was möchten Sie uns sagen?",
+    "button":"Nachricht senden"
+  },
+  "errors":{
+    "email":"E-Mail ist erforderlich und muss gültig sein",
+    "name": "Namensfeld ist erforderlich",
+    "mess": "Nachrichtenfeld ist erforderlich"
+  },
+  "success":"Erfolgreich gesendet"
+}
